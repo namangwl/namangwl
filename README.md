@@ -25,20 +25,19 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namangwl&show_icons=true&theme=radium&hide_border=true" alt="Naman's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangwl&theme=radium&hide_border=true" alt="Naman's GitHub Streak" />
+  <!-- Alternative Vercel Instance & Demolab Server for better stability -->
+  <img src="https://github-readme-stats.vercel.app/api?username=namangwl&show_icons=true&theme=radical&hide_border=true" alt="Naman's GitHub stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=namangwl&theme=radical&hide_border=true" alt="Naman's GitHub Streak" />
 </div>
 
 ### 📫 Let's Connect
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/namansharma14" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:namansharma.gwl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/namansharma14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:namansharma.gwl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
