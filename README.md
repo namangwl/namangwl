@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Alternative Vercel Instance & Demolab Server for better stability -->
+  
   <img src="https://github-readme-stats.vercel.app/api?username=namangwl&show_icons=true&theme=radical&hide_border=true" alt="Naman's GitHub stats" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=namangwl&theme=radical&hide_border=true" alt="Naman's GitHub Streak" />
